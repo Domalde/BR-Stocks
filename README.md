@@ -1,4 +1,4 @@
 
-# Ações Brasileira
+# RELATÓRIO QUALIDADE DE ÁGUA
 
-Retorna uma série de indicadores de cada ação selecionada.
+Gerador de relatório.
